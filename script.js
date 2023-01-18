@@ -78,4 +78,5 @@ function getAverageAge(users) {
   
   let arr1 = [ vasya, petya, masha ];
   
-  alert( getAverageAge(arr) ); // 28
+  alert( getAverageAge(arr) );
+  
